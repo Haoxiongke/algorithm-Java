@@ -1,4 +1,4 @@
-package algorithm.List;
+package List;
 
 import util.ListNode;
 
