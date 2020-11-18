@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class L003_lengthOfLongestSubstring {
+public class L3_lengthOfLongestSubstring {
     public static void main(String[] args) {
         System.out.println(lengthOfLongestSubstring3("abcabcbb"));
     }

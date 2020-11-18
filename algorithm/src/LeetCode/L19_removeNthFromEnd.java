@@ -8,7 +8,7 @@ import util.ListNode;
  * @author kehaoxiong
  * @date 2020/11/18
  */
-public class L019_removeNthFromEnd {
+public class L19_removeNthFromEnd {
     public static void main(String[] args) {
 
         ListNode head = new ListNode(1);
