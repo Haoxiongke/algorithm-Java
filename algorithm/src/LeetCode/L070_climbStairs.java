@@ -6,7 +6,7 @@ package LeetCode;
  * @author kehaoxiong
  * @date 2020/11/18
  */
-public class L70_climbStairs {
+public class L070_climbStairs {
 
     public static void main(String[] args) {
 

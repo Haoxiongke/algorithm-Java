@@ -3,7 +3,7 @@ package LeetCode;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class L4_findMedianSortedArrays {
+public class L004_findMedianSortedArrays {
     public static void main(String[] args) {
         int[] num1 = new int[]{1, 2};
         int[] num2 = new int[]{3, 4};

@@ -6,7 +6,7 @@ package LeetCode;
  * @author kehaoxiong
  * @date 2020/11/10
  */
-public class L27_removeElement {
+public class L027_removeElement {
     public static void main(String[] args) {
 
         int[] arr = new int[]{3, 2, 2, 3};

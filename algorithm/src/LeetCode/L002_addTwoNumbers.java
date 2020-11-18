@@ -2,7 +2,7 @@ package LeetCode;
 
 import util.ListNode;
 
-public class L2_addTwoNumbers {
+public class L002_addTwoNumbers {
     public static void main(String[] args) {
         ListNode l1 = new ListNode(9);
         l1.next = new ListNode(8);

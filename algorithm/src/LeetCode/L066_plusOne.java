@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @author kehaoxiong
  * @date 2020/11/10
  */
-public class L66_plusOne {
+public class L066_plusOne {
     public static void main(String[] args) {
         int[] arr = new int[]{9, 8, 7, 6, 5, 4, 3, 2, 1, 0};
         int[] result = plusOne(arr);

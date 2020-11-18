@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @author kehaoxiong
  * @date 2020/11/16
  */
-public class L6_convert {
+public class L006_convert {
     public static void main(String[] args) {
         System.out.println(convert2("LEETCODEISHIRING", 3));
     }

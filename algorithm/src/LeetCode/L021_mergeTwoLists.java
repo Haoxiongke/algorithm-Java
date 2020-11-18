@@ -8,7 +8,7 @@ import util.ListNode;
  * @author kehaoxiong
  * @date 2020/11/18
  */
-public class L21_mergeTwoLists {
+public class L021_mergeTwoLists {
     public static void main(String[] args) {
 
         ListNode head1 = new ListNode(1);

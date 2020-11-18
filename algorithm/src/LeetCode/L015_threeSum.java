@@ -10,7 +10,7 @@ import java.util.List;
  * @author kehaoxiong
  * @date 2020/11/11
  */
-public class L15_threeSum {
+public class L015_threeSum {
     public static void main(String[] args) {
         int[] arr = new int[]{-1, 0, 1, 2, -1, -4};
         List<List<Integer>> lists = threeSum(arr);

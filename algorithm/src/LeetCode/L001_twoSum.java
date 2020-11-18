@@ -2,7 +2,7 @@ package LeetCode;
 
 import java.util.HashMap;
 
-public class L1_twoSum {
+public class L001_twoSum {
     public static void main(String[] args) {
         int[] arr = new int[]{2,7,11,15};
         int[] ints = twoSum(arr, 9);

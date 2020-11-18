@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @author kehaoxiong
  * @date 2020/11/10
  */
-public class L26_removeDuplicates {
+public class L026_removeDuplicates {
     public static void main(String[] args) {
         int[] arr = new int[]{0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
         System.out.println(removeDuplicates(arr));
